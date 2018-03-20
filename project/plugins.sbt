@@ -1,0 +1,1 @@
+addSbtPlugin("com.qonceptual.sbt" % "sbt-pmd-plugin" % "1.0.2")
